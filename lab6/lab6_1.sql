@@ -1,0 +1,10 @@
+INSERT INTO `Classes` VALUES("Statistics 2500", "Statisticsts department", "2500", "10:00", "10:50", "TTh");
+INSERT INTO `Classes` VALUES("Databases 3380", "Computer Science department", "3380", "12:00", "13:15", "MW");
+INSERT INTO `Classes` VALUES("Management 3000", "Business department", "3000", "14:00", "15:15", "MW");
+INSERT INTO `Classes` VALUES("Cloud Computing 4800", "Computer Science department", "4800", "9:30", "10:45", "TTh");
+INSERT INTO `Classes` VALUES("Mobile App Development 4500", "Information Technology department", "4500", "9:00", "9:50", "MW");
+INSERT INTO `Classes` VALUES("Object Oriented 3350", "Computer Science department", "3350", "8:00", "8:50", "MWF");
+INSERT INTO `Classes` VALUES("Biology 1000", "Biology department", "1000", "8:00", "8:50", "MWF");
+INSERT INTO `Classes` VALUES("Calculus I 1070", "Math department", "1070", "13:00", "13:50", "MWF");
+INSERT INTO `Classes` VALUES("Finite Math 2020", "Statisticsts department", "2020", "10:00", "10:50", "TTh");
+INSERT INTO `Classes` VALUES("Intro to Computer Science 1001", "Computer Science department", "1001", "15:00", "16:15", "M");
